@@ -5,7 +5,7 @@
 <p>Motivated by Gregory Smith's web scrape of VGChartz Video Games Sales, this data set simply extends the number of variables with another web scrape from Metacritic. Unfortunately, there are missing observations as Metacritic only covers a subset of the platforms. Also, a game may not have all the observations of the additional variables discussed below. Complete cases are ~ 6,900</p>
 
 <h2>Content</h2>
-Alongside the fields: Name, Platform, YearofRelease, Genre, Publisher, NASales, EUSales, JPSales, OtherSales, Global_Sales, we have:-
+<p>Alongside the fields: Name, Platform, YearofRelease, Genre, Publisher, NASales, EUSales, JPSales, OtherSales, Global_Sales, we have:</p>
 <ul>
 <li>Critic_score - Aggregate score compiled by Metacritic staff</li>
 <li>Criticcount - The number of critics used in coming up with the Criticscore</li>
