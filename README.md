@@ -1,4 +1,7 @@
 # videogames_sale_project
+
+https://nbviewer.jupyter.org/github/kiryouri/videogames_sale_project/blob/main/videogames_sales.ipynb
+
 <p>Визуализация данных на примере датасета с kaggle по продажам видеоигр с 1980 по 2016 года</p>
 
 <h2>Context</h2>
