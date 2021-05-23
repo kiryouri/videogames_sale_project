@@ -18,5 +18,5 @@ https://nbviewer.jupyter.org/github/kiryouri/videogames_sale_project/blob/main/v
 <li>Rating - The ESRB ratings</li>
 </ul>
 
-Использованные библиотеки: pandas, numpy, seaborn, matplotlib, модуль stats из scipy
-Упор сделан на визуализацию графиков и их дальнейшую кастомизацию
+<p>Использованные библиотеки: pandas, numpy, seaborn, matplotlib, модуль stats из scipy</p>
+<p>Упор сделан на визуализацию графиков и их дальнейшую кастомизацию</p>
